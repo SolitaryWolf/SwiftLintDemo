@@ -13,6 +13,7 @@ class ViewController: UIViewController {
 
 
     var TestView: UIView?
+    var TestViolateConvention: Int = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
