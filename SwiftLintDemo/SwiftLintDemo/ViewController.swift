@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 
     var TestView: UIView?
     var TestViolateConvention: Int = 0
-
+    var TestViolateBranchConventio: Double = 0
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
